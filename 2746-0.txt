@@ -1,22 +1,21 @@
 ﻿                          URBAIN GRANDIER—1634
 
 
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at http://www.gutenberg.org/license.
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you’ll have to check the laws of the country where you are
+located before using this ebook.
+
 
 
 Title: Urbain Grandier
-
 Author: Alexandre Dumas, Pere
-
 Release Date: September 22, 2004 [EBook #2746]
-
-Last Updated: 2012-02-20
-
+Reposted: November 27, 2016 [corrections made]
 Language: English
-
 Character set encoding: UTF-8
 
 
@@ -26,6 +25,7 @@ Character set encoding: UTF-8
 
 
 Produced by David Widger.
+
 
 
 
@@ -47,7 +47,6 @@ Produced by David Widger.
 CONTENTS
 
 
-    CONTENTS
     *URBAIN GRANDIER—1634*
     CHAPTER I
     CHAPTER II
@@ -88,8 +87,8 @@ feelings with which the man would be welcomed who had himself formally
 announced to friends and enemies alike the exact date of his return.
 
 About nine o’clock a kind of sympathetic vibration ran through the
-crowd, and with the rapidity of a flash of lightning the words, "There
-he is! there he is!" passed from group to group. At this cry some
+crowd, and with the rapidity of a flash of lightning the words, “There
+he is! there he is!” passed from group to group. At this cry some
 withdrew into their houses and shut their doors and darkened their
 windows, as if it were a day of public mourning, while others opened
 them wide, as if to let joy enter. In a few moments the uproar and
@@ -321,7 +320,7 @@ unyielding, as scornful, and as haughty as ever.
 Among those who were supposed to be most active in spreading the
 slanders relative to Urbain was a man called Duthibaut, a person of
 importance in the province, who was supposed by the townspeople to hold
-very advanced views, and who was a "Sir Oracle" to whom the commonplace
+very advanced views, and who was a “Sir Oracle” to whom the commonplace
 and vulgar turned for enlightenment. Some of this man’s strictures on
 Grandier were reported to the latter, especially some calumnies to which
 Duthibaut had given vent at the Marquis de Bellay’s; and one day,
@@ -371,7 +370,7 @@ him, superficial as they were, sufficient evidence against Urbain to
 justify him in issuing a warrant for his apprehension, which was drawn
 up in the following words:
 
-"Henri-Louis, Chataignier de la Rochepezai, by divine mercy Bishop of
+“Henri-Louis, Chataignier de la Rochepezai, by divine mercy Bishop of
 Poitiers, in view of the charges and informations conveyed to us by the
 archpriest of Loudun against Urbain Grandier, priest-in-charge of the
 Church of Saint-Pierre in the Market-Place at Loudun, in virtue of a
@@ -388,10 +387,10 @@ and authority to carry out this decree notwithstanding any opposition or
 appeal, and the said Grandier having been heard, such a decision will be
 given by our attorney as the facts may seem to warrant.
 
-"Given at Dissay the 22nd day of October 1629, and signed in the
+“Given at Dissay the 22nd day of October 1629, and signed in the
 original as follows:
 
-"HENRI-LOUIS, Bishop of Poitiers."
+“HENRI-LOUIS, Bishop of Poitiers.”
 
 Grandier was, as we have said, at Paris when these proceedings were
 taken against him, conducting before the Parliament his case against
@@ -464,7 +463,7 @@ as candidate for the reversion of Grandier’s preferments. Boulieau’s
 deposition has been lost, but we can lay Mechin’s before the reader, for
 the original has been preserved, just as it issued from his pen:
 
-"I, Gervais Mechin, curate-in-charge of the Church of Saint-Pierre in
+“I, Gervais Mechin, curate-in-charge of the Church of Saint-Pierre in
 the Market Place at Loudun, certify by these presents, signed by my
 hand, to relieve my conscience as to a certain report which is being
 spread abroad, that I had said in support of an accusation brought by
@@ -472,16 +471,16 @@ Gilles Robert, archpriest, against Urbain Grandier, priest-in-charge of
 Saint-Pierre, that I had found the said Grandier lying with women and
 girls in the church of Saint Pierre, the doors being closed.
 
-"ITEM. that on several different occasions, at unsuitable hours both day
+“ITEM. that on several different occasions, at unsuitable hours both day
 and night, I had seen women and girls disturb the said Grandier by going
 into his bedroom, and that some of the said women remained with him from
 one o’clock in the after noon till three o’clock the next morning, their
 maids bringing them their suppers and going away again at once.
 
-"ITEM. that I had seen the said Grandier in the church, the doors being
+“ITEM. that I had seen the said Grandier in the church, the doors being
 open, but that as soon as some women entered he closed them.
 
-"As I earnestly desire that such reports should cease, I declare by
+“As I earnestly desire that such reports should cease, I declare by
 these presents that I have never seen the said Grandier with women or
 girls in the church, the doors being closed; that I have never found him
 there alone with women or girls; that when he spoke to either someone
@@ -504,7 +503,7 @@ found in my deposition contrary to the above, it is without my
 knowledge, and was never read to me, for I would not have signed it, and
 I say and affirm all this in homage to the truth.
 
-"Done the last day of October 1630, "(Signed) G. MECHIN."
+“Done the last day of October 1630, “(Signed) G. MECHIN.”
 
 In the face of such proofs of innocence none of the accusations could be
 considered as established and so, according to the decision of the
@@ -834,27 +833,27 @@ everyone to be silent, placed two of his fingers in her mouth, and,
 having gone through the form of exorcism prescribed by the ritual, he
 asked the following questions word for word as they are given,
 
-  D. Why have you entered into the body of this young girl?
+D Why have you entered into the body of this young girl?
 
-  R. Causa animositatis. Out of enmity.
+R Causa animositatis. Out of enmity.
 
-  D. Per quod pactum? By what pact?
+D Per quod pactum? By what pact?
 
-  R. Per flores. By flowers.
+R Per flores. By flowers.
 
-  D. Quales? What flowers?
+D Quales? What flowers?
 
-  R. Rosas. Roses.
+R Rosas. Roses.
 
-  D. Quis misfit? By whom wert thou sent?
+D Quis misfit? By whom wert thou sent?
 
 At this question the magistrates remarked that the superior hesitated to
 reply; twice she opened her mouth in vain, but the third time she said
 in a weak voice—
 
-  D. Dic cognomen? What is his surname?
+D Dic cognomen? What is his surname?
 
-  R. Urbanus. Urbain.
+R Urbanus. Urbain.
 
 Here there was again the same hesitation, but as if impelled by the will
 of the exorcist she answered:
@@ -863,7 +862,7 @@ of the exorcist she answered:
     D.  Dic qualitatem?           What is his profession?
     R.  Sacerdos.                 A priest.
     D.  Cujus ecclesiae?          Of what church?
-    R.  Sancti Petri.             Saint-Pierre.
+    R.  Sancti Petri.             Saint−Pierre.
     D.  Quae persona attulit
         flores?                   Who brought the flowers?
     R.  Diabolica.                Someone sent by the devil.
@@ -893,8 +892,8 @@ lieutenant was about to insist on the matter being investigated, when
 the lay sister in her turn went into a fit, thus extricating Mignon from
 his embarrassment. The magistrates approached the lay sister’s bed at
 once, and directed Mignon to put the same questions to her as to the
-superior: he did so, but all in vain; all she would reply was, "To the
-other! To the other!"
+superior: he did so, but all in vain; all she would reply was, “To the
+other! To the other!”
 
 Mignon explained this refusal to answer by saying that the evil spirit
 which was in her was of an inferior order, and referred all questioners
@@ -955,12 +954,12 @@ the chief; that Grandier had entrusted his pact with the devil, under
 the symbol of a bunch of roses, to a certain Jean Pivart, to give to a
 girl who had introduced it into the convent garden by throwing it over
 the wall; that this took place in the night between Saturday and Sunday
-"hora secunda nocturna" (two hours after midnight); that those were the
+“hora secunda nocturna” (two hours after midnight); that those were the
 very words the superior had used, but that while she readily named
 Pivart, she absolutely refused to give the name of the girl; that on
-asking what Pivart was; she had replied, "Pauper magus" (a poor
+asking what Pivart was; she had replied, “Pauper magus” (a poor
 magician); that he then had pressed her as to the word magus, and that
-she had replied "Magicianus et civis" (magician and citizen); and that
+she had replied “Magicianus et civis” (magician and citizen); and that
 just as she said those words the magistrates had arrived, and he had
 asked no more questions.
 
@@ -993,10 +992,10 @@ to be expected, she having seven devils in her all at once; she was
 terribly convulsed, and was writhing and foaming at the mouth as if she
 were mad. No one could long continue in such a condition without serious
 injury to health; Barre therefore asked the devil-in-chief how soon he
-would come out. "Cras mane" (To-morrow morning), he replied. The
+would come out. “Cras mane” (To-morrow morning), he replied. The
 exorcist then tried to hurry him, asking him why he would not come out
-at once; whereupon the superior murmured the word "Pactum" (A pact); and
-then "Sacerdos" (A priest), and finally "Finis," or "Finit," for even
+at once; whereupon the superior murmured the word “Pactum” (A pact); and
+then “Sacerdos” (A priest), and finally “Finis,” or “Finit,” for even
 those nearest could not catch the word distinctly, as the devil, afraid
 doubtless of perpetrating a barbarism, spoke through the nun’s closely
 clenched teeth. This being all decidedly unsatisfying, the magistrates
@@ -1040,7 +1039,7 @@ people and at the noise, the poor animal had sought refuge under a
 canopy; but at last it was secured and carried to the superior’s
 bedside, where Barre began his exorcisms once more, covering the cat
 with signs of the cross, and adjuring the devil to take his true shape.
-Suddenly the ’touriere’, (the woman who received the tradespeople,) came
+Suddenly the ‘touriere’, (the woman who received the tradespeople,) came
 forward, declaring the supposed devil to be only her cat, and she
 immediately took possession of it, lest some harm should happen to it.
 
@@ -1062,7 +1061,7 @@ genuine possession. Thereupon the criminal lieutenant, Henri Herve, who
 had been present during the exorcism, said they must seize upon the
 moment of his exit to ask about Pivart, who was unknown at Loudun,
 although everyone who lived there knew everybody else. Barre replied in
-Latin, "Et hoc dicet epuellam nominabit" (He will not only tell about
+Latin, “Et hoc dicet epuellam nominabit” (He will not only tell about
 him, but he will also name the young girl). The young girl whom the
 devil was to name was, it may be recollected, she who had introduced the
 flowers into the convent, and whose name the demon until now had
@@ -1241,7 +1240,7 @@ business, except in a public and judicial manner, he applied at once to
 the bailiff to know if it was by his orders that he was called in. The
 bailiff said it was not, and summoned Mannouri before him to ask him by
 whose authority he had sent for Joubert. Mannouri declared that the
-’touriere’ had run in a fright to his house, saying that the nuns had
+‘touriere’ had run in a fright to his house, saying that the nuns had
 never been worse possessed than now, and that the director, Mignon,
 begged him to come at once to the convent, bringing with him all the
 doctors he could find.
@@ -1386,39 +1385,39 @@ The mass finished, Barre approached her to administer the holy communion
 and to commence the exorcism. Holding the holy wafer in his hand, he
 said—
 
-"Adora Deum tuum, creatorem tuum" (Adore God, thy Creator).
+“Adora Deum tuum, creatorem tuum” (Adore God, thy Creator).
 
 The superior hesitated, as if she found great difficulty in making this
 act of love, but at length she said—
 
-"Adoro te" (I adore Thee).
+“Adoro te” (I adore Thee).
 
-"Quem adoras?" (Whom dost thou adore?)
+“Quem adoras?” (Whom dost thou adore?)
 
-"Jesus Christus" (Jesus Christ), answered the nun, quite unconscious
+“Jesus Christus” (Jesus Christ), answered the nun, quite unconscious
 that the verb adorn governs accusative.
 
 This mistake, which no sixth-form boy would make, gave rise to bursts of
 laughter in the church; and Daniel Douin, the provost’s assessor, was
 constrained to say aloud—
 
-"There’s a devil for you, who does not know much about transitive
-verbs."
+“There’s a devil for you, who does not know much about transitive
+verbs.”
 
 Barre perceiving the bad impression that the superior’s nominative had
 made, hastened to ask her—
 
-"Quis est iste quem adoras?" (Who is it whom thou dost adore?)
+“Quis est iste quem adoras?” (Who is it whom thou dost adore?)
 
-His hope was that she would again reply "Jesus Christus," but he was
+His hope was that she would again reply “Jesus Christus,” but he was
 disappointed.
 
-"Jesu Christe," was her answer.
+“Jesu Christe,” was her answer.
 
 Renewed shouts of laughter greeted this infraction of one of the most
 elementary rules of syntax, and several of those present exclaimed:
 
-"Oh, your reverence, what very poor Latin!"
+“Oh, your reverence, what very poor Latin!”
 
 Barre pretended not to hear, and next asked what was the name of the
 demon who had taken possession of her. The poor superior, who was
@@ -1428,13 +1427,13 @@ out the name Asmodee, without daring to latinise it. The exorcist then
 inquired how many devils the superior had in her body, and to this
 question she replied quite fluently:
 
-"Sex" (Six).
+“Sex” (Six).
 
 The bailiff upon this requested Barre to ask the chief devil how many
 evil spirits he had with him. But the need for this answer had been
 foreseen, and the nun unhesitatingly returned—
 
-"Quinque" (Five).
+“Quinque” (Five).
 
 This answer raised Asmodee somewhat in the opinion of those present; but
 when the bailiff adjured the superior to repeat in Greek what she had
@@ -1446,7 +1445,7 @@ appeared for the first time in public was brought forward. She began by
 twice pronouncing the name of Grandier with a loud laugh; then turning
 to the bystanders, called out—
 
-"For all your number, you can do nothing worth while."
+“For all your number, you can do nothing worth while.”
 
 As it was easy to see that nothing of importance was to be expected from
 this new patient, she was soon suppressed, and her place taken by the
@@ -1458,7 +1457,7 @@ as they placed her on the little bed on which the other nuns had lain,
 she gave way to uncontrollable laughter, and cried out between the
 paroxysms—
 
-"Grandier, Grandier, you must buy some at the market."
+“Grandier, Grandier, you must buy some at the market.”
 
 Barre at once declared that these wild and whirling words were a proof
 of possession, and approached to exorcise the demon; but Sister Claire
@@ -1470,20 +1469,20 @@ everyone and required no interpretation.
 The exorcist then conjured her to give the name of the demon who was in
 her, and she replied—
 
-"Grandier."
+“Grandier.”
 
 But Barre by repeating his question gave her to understand that she had
 made a mistake, whereupon she corrected herself and said—
 
-"Elimi."
+“Elimi.”
 
 Nothing in the world could induce her to reveal the number of evil
 spirits by whom Elimi was accompanied, so that Barre, seeing that it was
 useless to press her on this point, passed on to the next question.
 
-"Quo pacto ingressus est daemon"(By what pact did the demon get in?).
+“Quo pacto ingressus est daemon.” (By what pact did the demon get in?).
 
-"Duplex" (Double), returned Sister Claire.
+“Duplex” (Double), returned Sister Claire.
 
 This horror of the ablative, when the ablative was absolutely necessary,
 aroused once more the hilarity of the audience, and proved that Sister
@@ -1510,24 +1509,24 @@ Having adjured her several times, the exorcist succeeded in making her
 repeat some prayers, and then sounded her as to the name and number of
 the demons in possession, whereupon she said three times that there was
 one called Achaos. The bailiff then directed Barre to ask if she were
-possessed ’ex pacto magi, aut ex Aura voluntate Dei’ (by a pact with a
+possessed ‘ex pacto magi, aut ex Aura voluntate Dei’ (by a pact with a
 sorcerer or by the pure will of God), to which the superior answered
 
-"Non est voluutas Dei" (Not by the will of God).
+“Non est voluutas Dei” (Not by the will of God).
 
 Upon this, Barre dreading more questions from the bystanders, hastily
 resumed his own catechism by asking who was the sorcerer.
 
-"Urbanus," answered the superior.
+“Urbanus,” answered the superior.
 
-"Est-ne Urbanus papa" (Is it Pope Urban?), asked the exorcist.
+“Est-ne Urbanus papa” (Is it Pope Urban?), asked the exorcist.
 
-"Grandier," replied the superior.
+“Grandier,” replied the superior.
 
-"Quare ingressus es in corpus hujus puellae" (Why did you enter the body
+“Quare ingressus es in corpus hujus puellae” (Why did you enter the body
 of this maiden?), said Barre.
 
-"Propter praesentiam tuum" (Because of your presence), answered the
+“Propter praesentiam tuum” (Because of your presence), answered the
 superior.
 
 At this point the bailiff, seeing no reason why the dialogue between
@@ -1551,7 +1550,7 @@ were all conducted to the choir. In a few moments the curtains behind
 the grating were drawn back, and the superior, lying on her bed, came to
 view. Barre began, as usual, by the celebration of mass, during which
 the superior was seized with convulsions, and exclaimed two or three
-times, "Grandier! Grandier! false priest!" When the mass was over, the
+times, “Grandier! Grandier! false priest!” When the mass was over, the
 celebrant went behind the grating, carrying the pyx; then, placing it on
 his head and holding it there, he protested that in all he was doing he
 was actuated by the purest motives and the highest integrity; that he
@@ -1579,10 +1578,10 @@ morsel, but complained that it stuck in her throat. At last, in order to
 get it down, Barge three times gave her water to drink; and then, as
 always during his exorcisms, he began by interrogating the demon.
 
-"Per quod pactum ingressus es in corpus hujus puellae?" (By what pact
+“Per quod pactum ingressus es in corpus hujus puellae?” (By what pact
 didst thou enter the body of this maiden?)
 
-"Aqua" ( By water), said the superior.
+“Aqua” ( By water), said the superior.
 
 One of those who had accompanied the bailiff was a Scotchman called
 Stracan, the head of the Reformed College of Loudun. Hearing this
@@ -1595,13 +1594,13 @@ permitted, and ordered the spirit to answer in Gaelic. But though he
 repeated his command twice, it was not obeyed; on the third repetition
 the superior said—
 
-"Nimia curiositas" (Too much curiosity), and on being asked again, said—
+“Nimia curiositas” (Too much curiosity), and on being asked again, said—
 
-"Deus non volo."
+“Deus non volo.”
 
 This time the poor devil went astray in his conjugation, and confusing
-the first with the third person, said, "God, I do not wish," which in
-the context had no meaning. "God does not wish," being the appointed
+the first with the third person, said, “God, I do not wish,” which in
+the context had no meaning. “God does not wish,” being the appointed
 answer.
 
 The Scotchman laughed heartily at this nonsense, and proposed to Barre
@@ -1610,17 +1609,17 @@ form; but Barre, instead of frankly accepting the challenge in the
 devil’s name, hemmed and hawed, and opined that the devil was justified
 in not satisfying idle curiosity.
 
-"But, sir, you must be aware," said the civil lieutenant, "and if you
+“But, sir, you must be aware,” said the civil lieutenant, “and if you
 are not, the manual you hold in your hand will teach you, that the gift
 of tongues is one of the unfailing symptoms of true possession, and the
-power to tell what is happening at a distance another."
+power to tell what is happening at a distance another.”
 
-"Sir," returned Barre, "the devil knows the language very well, but,
+“Sir,” returned Barre, “the devil knows the language very well, but,
 does not wish to speak it; he also knows all your sins, in proof of
-which, if you so desire, I shall order him to give the list."
+which, if you so desire, I shall order him to give the list.”
 
-"I shall be delighted to hear it," said the civil lieutenant; "be so
-good as to try the experiment."
+“I shall be delighted to hear it,” said the civil lieutenant; “be so
+good as to try the experiment.”
 
 Barre was about to approach the superior, when he was held back by the
 bailiff, who remonstrated with him on the impropriety of his conduct,
@@ -1639,13 +1638,13 @@ Hebrew. The poor woman, who found it difficult enough to repeat
 correctly the few Latin words she had learned by rote, made an impatient
 movement, and said—
 
-"I can’t help it; I retract" (Je renie).
+“I can’t help it; I retract” (Je renie).
 
 These words being heard and repeated by those near her produced such an
 unfavourable impression that one of the Carmelite monks tried to explain
-them away by declaring that the superior had not said "Je renie," but
-"Zaquay," a Hebrew word corresponding to the two Latin words, "Effudi
-aquam" (I threw water about). But the words "Je renie" had been heard so
+them away by declaring that the superior had not said “Je renie,” but
+“Zaquay,” a Hebrew word corresponding to the two Latin words, “Effudi
+aquam” (I threw water about). But the words “Je renie” had been heard so
 distinctly that the monk’s assertion was greeted with jeers, and the
 sub-prior reprimanded him publicly as a liar. Upon this, the superior
 had a fresh attack of convulsions, and as all present knew that these
@@ -1682,62 +1681,62 @@ towards her, and having asked the demon as usual by what pact he had
 entered the maiden’s body, and received the information that it was by
 water, continued his examination as follows:
 
-"Quis finis pacti" (What is the object of this pact?)
+“Quis finis pacti” (What is the object of this pact?)
 
-"Impuritas" (Unchastity).
+“Impuritas” (Unchastity).
 
 At these words the bailiff interrupted the exorcist and ordered him to
-make the demon say in Greek the three words, ’finis, pacti, impuritas’.
+make the demon say in Greek the three words, ‘finis, pacti, impuritas’.
 But the superior, who had once already got out of her difficulties by an
-evasive answer, had again recourse to the same convenient phrase, "Nimia
-curiositas," with which Barre agreed, saying that they were indeed too
+evasive answer, had again recourse to the same convenient phrase, “Nimia
+curiositas,” with which Barre agreed, saying that they were indeed too
 much given to curiosity. So the bailiff had to desist from his attempt
 to make the demon speak Greek, as he had before been obliged to give up
 trying to make him speak Hebrew and Gaelic. Barre then continued his
 examination.
 
-"Quis attulit pactum?" (Who brought the pact?)
+“Quis attulit pactum?” (Who brought the pact?)
 
-"Magus" (The sorcerer).
+“Magus” (The sorcerer).
 
-"Quale nomen magi?" (What is the sorcerer’s name?)
+“Quale nomen magi?” (What is the sorcerer’s name?)
 
-"Urbanus" (Urban).
+“Urbanus” (Urban).
 
-"Quis Urbanus? Est-ne Urbanus papa?"
+“Quis Urbanus? Est-ne Urbanus papa?”
 
 (What Urban? Pope Urban?)
 
-"Grandier."
+“Grandier.”
 
-"Cujus qualitatis?" (What is his profession?)
+“Cujus qualitatis?” (What is his profession?)
 
-"Curcatus."
+“Curcatus.”
 
 The enriching of the Latin language by this new and unknown word
 produced a great effect on the audience; however, Barre did not pause
 long enough to allow it to be received with all the consideration it
 deserved, but went on at once.
 
-"Quis attulit aquam pacti?" (Who brought the water of the pact?)
+“Quis attulit aquam pacti?” (Who brought the water of the pact?)
 
-"Magus" (The magician).
+“Magus” (The magician).
 
-"Qua hora?" (At what o’clock?)
+“Qua hora?” (At what o’clock?)
 
-"Septima" (At seven o’clock).
+“Septima” (At seven o’clock).
 
-"An matutina?" (In the morning?)
+“An matutina?” (In the morning?)
 
-"Sego" (In the evening).
+“Sego” (In the evening).
 
-"Quomodo intravit?" (How did he enter?)
+“Quomodo intravit?” (How did he enter?)
 
-"Janua" (By the door).
+“Janua” (By the door).
 
-"Quis vidit?" (Who saw him?)
+“Quis vidit?” (Who saw him?)
 
-"Tres" (Three persons).
+“Tres” (Three persons).
 
 Here Barre stopped, in order to confirm the testimony of the devil,
 assuring his hearers that the Sunday after the superior’s deliverance
@@ -1820,7 +1819,7 @@ Dessentier standing up with his hat on. He ordered him either to uncover
 or to go away. At this the convulsive movements of the superior became
 more violent, and she cried out that there were Huguenots in the church,
 which gave the demon great power over her. Barre asked her how many
-there were present, and she replied, "Two," thus proving that the devil
+there were present, and she replied, “Two,” thus proving that the devil
 was no stronger in arithmetic than in Latin; for besides Dessentier,
 Councillor Abraham Gauthier, one of his brothers, four of his sisters,
 Rene Fourneau, a deputy, and an attorney called Angevin, all of the
@@ -1833,12 +1832,12 @@ replying that she did not know a single word, he held the pyx before her
 and ordered her to swear by the holy sacrament. She resisted at first,
 saying loud enough for those around her to hear—
 
-"My father, you make me take such solemn oaths that I fear God will
-punish me."
+“My father, you make me take such solemn oaths that I fear God will
+punish me.”
 
 To this Barre replied—
 
-"My daughter, you must swear for the glory of God."
+“My daughter, you must swear for the glory of God.”
 
 And she took the oath.
 
@@ -1855,12 +1854,12 @@ without seeing them, and as the question was propounded in the
 prescribed terms, she was bound to answer, so she said that Grandier was
 in the great hall of the castle.
 
-"That is not correct," said the bailiff, "for before coming here I
+“That is not correct,” said the bailiff, “for before coming here I
 pointed out a house to Grandier and asked him to stay in it till I came
 back. If anybody will go there, they will be sure to find him, for he
 wished to help me to discover the truth without my being obliged to
 resort to sequestration, which is a difficult measure to take with
-regard to nuns."
+regard to nuns.”
 
 Barre was now ordered to send some of the monks present to the castle,
 accompanied by a magistrate and a clerk. Barre chose the Carmelite
@@ -1936,11 +1935,11 @@ granted, and the bishop appointed Bazile, senior-canon of Champigny, and
 Demorans, senior canon of Thouars, both of whom were related to some of
 Grandier’s adversaries. The following is a copy of the new commission:
 
-"Henri-Louis le Chataignier de la Rochepezai, by the divine will Bishop
+“Henri-Louis le Chataignier de la Rochepezai, by the divine will Bishop
 of Poitiers, to the senior canons of the Chatelet de Saint-Pierre de
 Thouars et de Champigny-sur-Vese, greeting:
 
-"We by these presents command you to repair to the town of Loudun, to
+“We by these presents command you to repair to the town of Loudun, to
 the convent of the nuns of Sainte-Ursule, to be present at the exorcisms
 which will be undertaken by Sieur Barre upon some nuns of the said
 convent who are tormented by evil spirits, we having thereto authorised
@@ -1948,10 +1947,10 @@ the said Barre. You are also to draw up a report of all that takes
 place, and for this purpose are to take any clerk you may choose with
 you.
 
-"Given and done at Poitiers, November 28th, 1632.
+“Given and done at Poitiers, November 28th, 1632.
 
-"(Signed) HENRI LOUIS, Bishop of Poitiers. "(Countersigned) By order of
-the said Lord Bishop, "MICHELET"
+“(Signed) HENRI LOUIS, Bishop of Poitiers. “(Countersigned) By order of
+the said Lord Bishop, “MICHELET”
 
 These two commissioners having been notified beforehand, went to Loudun,
 where Marescot, one of the queen’s chaplains, arrived at the same time;
@@ -1980,30 +1979,30 @@ had been authorised to visit the convent by the Bishop of Poitiers.
 Barre’ replied that he would not hinder their coming in, as far as it
 concerned him.
 
-"We are here with the intention of entering," said the bailiff, "and
+“We are here with the intention of entering,” said the bailiff, “and
 also for the purpose of requesting you to put one or two questions to
 the demon which we have drawn up in terms which are in accordance with
-what is prescribed in the ritual. I am sure you will not refuse," he
-added, turning with a bow to Marescot, "to make this experiment in the
+what is prescribed in the ritual. I am sure you will not refuse,” he
+added, turning with a bow to Marescot, “to make this experiment in the
 presence of the queen’s chaplain, since by that means all those
 suspicions of imposture can be removed which are unfortunately so rife
-concerning this business."
+concerning this business.”
 
-"In that respect I shall do as I please, and not as you order me," was
+“In that respect I shall do as I please, and not as you order me,” was
 the insolent reply of the exorcist.
 
-"It is, however, your duty to follow legal methods in your procedure,"
-returned the bailiff, "if you sincerely desire the truth; for it would
+“It is, however, your duty to follow legal methods in your procedure,”
+returned the bailiff, “if you sincerely desire the truth; for it would
 be an affront to God to perform a spurious miracle in His honour, and a
 wrong to the Catholic faith, whose power is in its truth, to attempt to
 give adventitious lustre to its doctrines by the aid of fraud and
-deception."
+deception.”
 
-"Sir," said Barre, "I am a man of honour, I know my duty and I shall
+“Sir,” said Barre, “I am a man of honour, I know my duty and I shall
 discharge it; but as to yourself, I must recall to your recollection
 that the last time you were here you left the chapel in anger and
 excitement, which is an attitude of mind most unbecoming in one whose
-duty it is to administer justice."
+duty it is to administer justice.”
 
 Seeing that these recriminations would have no practical result, the
 magistrates cut them short by reiterating their demand for admittance;
@@ -2086,7 +2085,7 @@ should be carried out in the presence of magistrates.
 
 The archbishop accepted the petition, and wrote below it:
 
-"The present petition having been seen by us and the opinion of our
+“The present petition having been seen by us and the opinion of our
 attorney having been taken in the matter, we have sent the petitioner in
 advance of our said attorney back to Poitiers, that justice may be done
 him, and in the meantime we have appointed Sieur Barre, Pere l’Escaye, a
@@ -2094,8 +2093,8 @@ Jesuit residing in Poitiers, Pere Gaut of the Oratory, residing at
 Tours, to conduct the exorcisms, should such be necessary, and have
 given them an order to this effect.
 
-"It is forbidden to all others to meddle with the said exorcisms, on
-pain of being punished according to law."
+“It is forbidden to all others to meddle with the said exorcisms, on
+pain of being punished according to law.”
 
 It will be seen from the above that His Grace the Archbishop of
 Bordeaux, in his enlightened and generous exercise of justice, had
@@ -2137,8 +2136,8 @@ chance soon presented itself.
 
 It was now 1633: Richelieu was at the height of his power, carrying out
 his work of destruction, making castles fall before him where he could
-not make heads fall, in the spirit of John Knox’s words, "Destroy the
-nests and the crows will disappear." Now one of these nests was the
+not make heads fall, in the spirit of John Knox’s words, “Destroy the
+nests and the crows will disappear.” Now one of these nests was the
 crenellated castle of Loudun, and Richelieu had therefore ordered its
 demolition.
 
@@ -2158,22 +2157,20 @@ willing to strike with the sword or to poison by calumny, as the man who
 moved him lusted for the blood or sought to accomplish the dishonour of
 his victim.
 
-  M. de Laubardemont arrived at Loudun during the month of August 1633,
-     and in order to carry out his mission addressed himself to Sieur
-     Memin de Silly, prefect of the town, that old friend of the
-     cardinal’s whom Mignon and Barre, as we have said, had impressed so
-     favourably. Memin saw in the arrival of Laubardemont a special
-     intimation that it was the will of Heaven that the seemingly lost
-     cause of those in whom he took such a warm interest should
-     ultimately triumph. He presented Mignon and all his friends to M.
-     Laubardemont, who received them with much cordiality. They talked
-     of the mother superior, who was a relation, as we have seen, of M.
-     de Laubardemont, and exaggerated the insult offered her by the
-     decree of the archbishop, saying it was an affront to the whole
-     family; and before long the one thing alone which occupied the
-     thoughts of the conspirators and the councillor was how best to
-     draw down upon Grandier the anger of the cardinal-duke. A way soon
-     opened.
+M de Laubardemont arrived at Loudun during the month of August 1633, and
+in order to carry out his mission addressed himself to Sieur Memin de
+Silly, prefect of the town, that old friend of the cardinal’s whom
+Mignon and Barre, as we have said, had impressed so favourably. Memin
+saw in the arrival of Laubardemont a special intimation that it was the
+will of Heaven that the seemingly lost cause of those in whom he took
+such a warm interest should ultimately triumph. He presented Mignon and
+all his friends to M. Laubardemont, who received them with much
+cordiality. They talked of the mother superior, who was a relation, as
+we have seen, of M. de Laubardemont, and exaggerated the insult offered
+her by the decree of the archbishop, saying it was an affront to the
+whole family; and before long the one thing alone which occupied the
+thoughts of the conspirators and the councillor was how best to draw
+down upon Grandier the anger of the cardinal-duke. A way soon opened.
 
 The Queen mother, Marie de Medici, had among her attendants a woman
 called Hammon, to whom, having once had occasion to speak, she had taken
@@ -2218,7 +2215,7 @@ ruin as was the councillor himself.
 
 De Laubardemont was at once granted the following commission:
 
-"Sieur de Laubardemont, Councillor of State and Privy Councillor, will
+“Sieur de Laubardemont, Councillor of State and Privy Councillor, will
 betake himself to Loudun, and to whatever other places may be necessary,
 to institute proceedings against Grandier on all the charges formerly
 preferred against him, and on other facts which have since come to
@@ -2241,7 +2238,7 @@ by the said Grandier. His majesty commands all governors, provincial
 lieutenant-generals, bailiffs, seneschals, and other municipal
 authorities, and all subjects whom it may concern, to give every
 assistance in arresting and imprisoning all persons whom it may be
-necessary to put under constraint, if they shall be required so to do."
+necessary to put under constraint, if they shall be required so to do.”
 
 Furnished with this order, which was equivalent to a condemnation, de
 Laubardemont arrived at Laudun, the 5th of December, 1633, at nine
@@ -2258,7 +2255,7 @@ one copy should be lost, dated like the commission, November 30th,
 signed LOUIS, and countersigned PHILIPPEAUX. It was conceived in the
 following terms:
 
-LOUIS, etc. etc. "We have entrusted these presents to Sieur de
+LOUIS, etc. etc. “We have entrusted these presents to Sieur de
 Laubardemont, Privy Councillor, to empower the said Sieur de
 Laubardemont to arrest Grandier and his accomplices and imprison them in
 a secure place, with orders to all provosts, marshals, and other
@@ -2266,7 +2263,7 @@ officers, and to all our subjects in general, to lend whatever
 assistance is necessary to carry out above order; and they are commanded
 by these presents to obey all orders given by the said Sieur; and all
 governors and lieutenants-general are also hereby commanded to furnish
-the said Sieur with whatever aid he may require at their hands."
+the said Sieur with whatever aid he may require at their hands.”
 
 This document being the completion of the other, it was immediately
 resolved, in order to show that they had the royal authority at their
@@ -2337,7 +2334,7 @@ they hoped to learn something that would help them in the coming
 exorcisms. In this room, lying on a little straw, and almost without
 light, Grandier wrote the following letter to his mother:
 
-"MY MOTHER,—I received your letter and everything you sent me except the
+“MY MOTHER,—I received your letter and everything you sent me except the
 woollen stockings. I endure any affliction with patience, and feel more
 pity for you than for myself. I am very much inconvenienced for want of
 a bed; try and have mine brought to me, for my mind will give way if my
@@ -2345,7 +2342,7 @@ body has no rest: if you can, send me a breviary, a Bible, and a St.
 Thomas for my consolation; and above all, do not grieve for me. I trust
 that, God will bring my innocence to light. Commend me to my brother and
 sister, and all our good friends.—I am, mother, your dutiful son and
-servant, "GRANDIER"
+servant, “GRANDIER”
 
 While Grandier had been in prison at Angers the cases of possession at
 the convent had miraculously multiplied, for it was no longer only the
@@ -2441,8 +2438,8 @@ pact, and that moreover some devils were more ignorant than peasants.
 Following these exorcists, and two Carmelite monks, named Pierre de
 Saint-Thomas and Pierre de Saint-Mathurin, who had, from the very
 beginning, pushed their way in when anything was going on, came four
-Capuchins sent by Pere Joseph, head of the Franciscans, "His grey
-Eminence," as he was called, and whose names were Peres Luc, Tranquille,
+Capuchins sent by Pere Joseph, head of the Franciscans, “His grey
+Eminence,” as he was called, and whose names were Peres Luc, Tranquille,
 Potais, and Elisee; so that a much more rapid advance could be made than
 hitherto by carrying on the exorcisms in four different places at
 once—viz., in the convent, and in the churches of Sainte-Croix,
@@ -2457,9 +2454,9 @@ interest. The superior, in reply to the interrogations of Pere Lactance,
 stated that the demon had entered her body under the forms of a cat, a
 dog, a stag, and a buck-goat.
 
-"Quoties?" (How often?), inquired the exorcist.
+“Quoties?” (How often?), inquired the exorcist.
 
-"I didn’t notice the day," replied the superior, mistaking the word
+“I didn’t notice the day,” replied the superior, mistaking the word
 quoties for quando (when).
 
 It was probably to revenge herself for this error that the superior
@@ -2493,7 +2490,7 @@ repeating a prayer, and notwithstanding that Mannouri stabbed him twice
 more through each of the two marks, he could draw nothing from his
 victim but prayers for his tormentors.
 
-  M. de Laubardemont was present at this scene.
+M de Laubardemont was present at this scene.
 
 The next day the devil was addressed in such forcible terms that an
 acknowledgment was wrung from him that Grandier’s body bore, not five,
@@ -2614,25 +2611,25 @@ superior recommenced; but it seemed as if Duncan had more strength than
 his six predecessors together, for twist and writhe and struggle as she
 would, the superior’s wrist remained none the less firmly clasped in
 Duncan’s hand. At length she fell back on her bed exhausted,
-exclaiming!"
+exclaiming!”
 
-"It’s no use, it’s no use! He’s holding me!"
+“It’s no use, it’s no use! He’s holding me!”
 
-"Release her arm!" shouted Pere Lactance in a rage. "How can the
-convulsions take place if you hold her that way?"
+“Release her arm!” shouted Pere Lactance in a rage. “How can the
+convulsions take place if you hold her that way?”
 
-"If she is really possessed by a demon," answered Duncan aloud, "he
+“If she is really possessed by a demon,” answered Duncan aloud, “he
 should be stronger than I; for it is stated in the ritual that among the
 symptoms of possession is strength beyond one’s years, beyond one’s
-condition, and beyond what is natural."
+condition, and beyond what is natural.”
 
-"That is badly argued," said Lactance sharply: "a demon outside the body
+“That is badly argued,” said Lactance sharply: “a demon outside the body
 is indeed stronger than you, but when enclosed in a weak frame such as
 this it cannot show such strength, for its efforts are proportioned to
-the strength of the body it possesses."
+the strength of the body it possesses.”
 
-"Enough!" said M. de Laubardemont; "we did not come here to argue with
-philosophers, but to build up the faith of Christians."
+“Enough!” said M. de Laubardemont; “we did not come here to argue with
+philosophers, but to build up the faith of Christians.”
 
 With that he rose up from his chair amidst a terrible uproar, and the
 assembly dispersed in the utmost disorder, as if they were leaving a
@@ -2646,9 +2643,9 @@ think it was not worth while remaining any longer, and went their
 several ways—a defection much bewailed by Pere Tranquille in a little
 work which he published on this affair.
 
-"Many," he says, "came to see miracles at Loudun, but finding the devils
+“Many,” he says, “came to see miracles at Loudun, but finding the devils
 did not give them the signs they expected, they went away dissatisfied,
-and swelled the numbers of the unbelieving."
+and swelled the numbers of the unbelieving.”
 
 It was determined, therefore, in order to keep the town full, to predict
 some great event which would revive curiosity and increase faith. Pere
@@ -2670,9 +2667,9 @@ him feel if he had not been under the special protection of Marshal
 Breze. The physicians having completed their examination, gave the
 following certificate:—
 
-"We have found no wound in the patient’s side, no rent in her vestments,
+“We have found no wound in the patient’s side, no rent in her vestments,
 and our search revealed no sharp instrument hidden in the folds of her
-dress."
+dress.”
 
 These preliminaries having been got through, Pere Lactance questioned
 her in French for nearly two hours, her answers being in the same
@@ -2708,7 +2705,7 @@ which he drew up during the night, and which was distributed next day.
 
 It was as follows:
 
-"That if the superior had not groaned the physicians would not have
+“That if the superior had not groaned the physicians would not have
 removed her clothes, and would have suffered her to be bound, without
 having the least idea that the wounds were already made; that then the
 exorcists would have commanded the devils to come forth, leaving the
@@ -2717,9 +2714,9 @@ the most extraordinary contortions of which she was capable, and have
 had a long fit of, convulsions, at the end of which she would have been
 delivered from the three demons, and the wounds would have been found in
 her body; that her groans, which had betrayed her, had by God’s will
-thwarted the best-laid plans of men and devils. Why do you suppose," he
-went on to ask, "that clean incised wounds, such as a sharp blade would
-make, ’were chosen for a token, seeing that the wounds left by devils
+thwarted the best-laid plans of men and devils. Why do you suppose,” he
+went on to ask, “that clean incised wounds, such as a sharp blade would
+make, ‘were chosen for a token, seeing that the wounds left by devils
 resemble burns? Was it not because it was easier for the superior to
 conceal a lancet with which to wound herself slightly, than to conceal
 any instrument sufficiently heated to burn her? Why do you think the
@@ -2740,7 +2737,7 @@ reddened by the blood it caused to flow? How came it that the wounds
 were so superficial that they barely went deeper than the cuticle, while
 devils are known to rend and tear demoniacs when leaving them, if it
 were not that the superior did not hate herself enough to inflict deep
-and dangerous wounds?"
+and dangerous wounds?”
 
 Despite this logical protest from Grandier and the barefaced knavery of
 the exorcist, M. de Laubardemont prepared a report of the expulsion of
@@ -2755,28 +2752,28 @@ in the superior’s body, the following day, why Asmodeus and his two
 companions had gone out against their promise, while the superior’s face
 and hands were hidden from the people.
 
-"To lengthen the incredulity of certain people," answered Balaam.
+“To lengthen the incredulity of certain people,” answered Balaam.
 
 As for Pere Tranquille, he published a little volume describing the
 whole affair, in which, with the irresponsible frivolity of a true
 Capuchin, he poked fun at those who could not swallow the miracles
 wholesale.
 
-"They had every reason to feel vexed," he said, "at the small courtesy
+“They had every reason to feel vexed,” he said, “at the small courtesy
 or civility shown by the demons to persons of their merit and station;
 but if they had examined their consciences, perhaps they would have
 found the real reason of their discontent, and, turning their anger
 against themselves, would have done penance for having come to the
-exorcisms led by a depraved moral sense and a prying spirit."
+exorcisms led by a depraved moral sense and a prying spirit.”
 
 Nothing remarkable happened from the 20th May till the 13th June, a day
 which became noteworthy by reason of the superior’s vomiting a quill a
 finger long. It was doubtless this last miracle which brought the Bishop
-of Poitiers to Loudun, "not," as he said to those who came to pay their
-respects to him, "to examine into the genuineness of the possession, but
+of Poitiers to Loudun, “not,” as he said to those who came to pay their
+respects to him, “to examine into the genuineness of the possession, but
 to force those to believe who still doubted, and to discover the classes
 which Urbain had founded to teach the black art to pupils of both
-sexes."
+sexes.”
 
 Thereupon the opinion began to prevail among the people that it would be
 prudent to believe in the possession, since the king, the cardinal-duke,
@@ -2785,22 +2782,22 @@ open to the charges of disloyalty to their king and their Church, and of
 complicity in the crimes of Grandier, and thus draw down upon them the
 ruthless punishment of Laubardemont.
 
-"The reason we feel so certain that our work is pleasing to God is that
-it is also pleasing to the king," wrote Pere Lactance.
+“The reason we feel so certain that our work is pleasing to God is that
+it is also pleasing to the king,” wrote Pere Lactance.
 
 The arrival of the bishop was followed by a new exorcism; and of this an
 eye-witness, who was a good Catholic and a firm believer in possession,
 has left us a written description, more interesting than any we could
 give. We shall present it to our readers, word for word, as it stands:—
 
-"On Friday, 23rd June 1634, on the Eve of Saint John, about 3 p.m., the
+“On Friday, 23rd June 1634, on the Eve of Saint John, about 3 p.m., the
 Lord Bishop of Poitiers and M. de Laubardemont being present in the
 church of Sainte-Croix of Loudun, to continue the exorcisms of the
 Ursuline nuns, by order of M. de Laubardemont, commissioner, Urbain
 Grandier, priest-in-charge, accused and denounced as a magician by the
 said possessed nuns, was brought from his prison to the said church.
 
-"There were produced by the said commissioner to the said Urbain
+“There were produced by the said commissioner to the said Urbain
 Grandier four pacts mentioned several times by the said possessed nuns
 at the preceding exorcisms, which the devils who possessed the nuns
 declared they had made with the said Grandier on several occasions:
@@ -2822,14 +2819,14 @@ the skill by which to make them, that he had held no communication with
 devils, and knew nothing of what they were talking about. A report of
 all this being made and shown to him, he signed it.
 
-"This done, they brought all the possessed nuns, to the number of eleven
+“This done, they brought all the possessed nuns, to the number of eleven
 or twelve, including three lay sisters, also possessed, into the choir
 of the said church, accompanied by a great many monks, Carmelites,
 Capuchins, and Franciscans; and by three physicians and a surgeon. The
 sisters on entering made some wanton remarks, calling Grandier their
 master, and exhibiting great delight at seeing him.
 
-"Thereupon Pere Lactance and Gabriel, a Franciscan brother, and one of
+“Thereupon Pere Lactance and Gabriel, a Franciscan brother, and one of
 the exorcists, exhorted all present with great fervour to lift up their
 hearts to God and to make an act of contrition for the offences
 committed against His divine majesty, and to pray that the number of
@@ -2858,24 +2855,24 @@ accept it as before, and received the bishop’s blessing, prostrating
 himself at his feet to kiss them; whereupon the Veni Creator Spiritus
 having been sung, he rose, and addressing the bishop, asked—
 
-"’My lord, whom am I to exorcise?’"
+“‘My lord, whom am I to exorcise?’”
 
 The said bishop having replied—
 
-"’These maidens.’
+“‘These maidens.’
 
-"Grandier again asked—
+“Grandier again asked—
 
-"’What maidens?’
+“‘What maidens?’
 
-"’The possessed maidens,’ was the answer.
+“‘The possessed maidens,’ was the answer.
 
-"’That is to say, my lord,’ said he; ’that I am obliged to believe in
+“‘That is to say, my lord,’ said he; ‘that I am obliged to believe in
 the fact of possession. The Church believes in it, therefore I too
 believe; but I cannot believe that a sorcerer can cause a Christian to
 be possessed unless the Christian consent.’
 
-"Upon this, some of those present exclaimed that it was heretical to
+“Upon this, some of those present exclaimed that it was heretical to
 profess such a belief; that the contrary was indubitable, believed by
 the whole Church and approved by the Sorbonne. To which he replied that
 his mind on that point was not yet irrevocably made up, that what he had
@@ -2901,13 +2898,13 @@ superior, he said, speaking in Latin as heretofore, that knowing she
 understood Latin, he would question her in Greek. To which the devil
 replied by the mouth of the possessed:
 
-"’Ah! how clever you are! You know it was one of the first conditions of
+“‘Ah! how clever you are! You know it was one of the first conditions of
 our pact that I was not to answer in Greek.’
 
-"Upon this, he cried, ’O pulchra illusio, egregica evasio!’ ( O superb
+“Upon this, he cried, ‘O pulchra illusio, egregica evasio!’ ( O superb
 fraud, outrageous evasion!)
 
-"He was then told that he was permitted to exorcise in Greek, provided
+“He was then told that he was permitted to exorcise in Greek, provided
 he first wrote down what he wished to say, and the superior hereupon
 said that he should be answered in what language he pleased; but it was
 impossible, for as soon as he opened his mouth all the nuns recommenced
@@ -2951,7 +2948,7 @@ man, yet his trust was in God and in His Christ; that he had never
 indulged in such abominations, end that it would be impossible to
 furnish any pertinent and convincing proof of his guilt.
 
-"At this point no words could express what the senses perceived; eyes
+“At this point no words could express what the senses perceived; eyes
 and ears received an impression of being surrounded by furies such as
 had never been gathered together before; and unless accustomed to such
 ghastly scenes as those who sacrifice to demons, no one could keep his
@@ -2962,9 +2959,9 @@ the people, as confident as if he were guarded by legions of angels. One
 of the demons cried out that Beelzebub was standing between him and Pere
 Tranquille the Capuchin, upon which Grandier said to the demon—
 
-"’Obmutescas!’ (Hold thy peace).
+“‘Obmutescas!’ (Hold thy peace).
 
-"Upon this the demon began to curse, and said that was their watchword;
+“Upon this the demon began to curse, and said that was their watchword;
 but they could not hold their peace, because God was infinitely
 powerful, and the powers of hell could not prevail against Him.
 Thereupon they all struggled to get at Grandier, threatening to tear him
@@ -2975,16 +2972,16 @@ the same breath acknowledge him for their master and express a desire to
 strangle him: on hearing this, the frenzy of the nuns reached its
 height, and they kicked their slippers into his face.
 
-"’Just look!’ said he; ’the shoes drop from the hoofs of their own
+“‘Just look!’ said he; ‘the shoes drop from the hoofs of their own
 accord.’
 
-"At length, had it not been for the help and interposition of people in
+“At length, had it not been for the help and interposition of people in
 the choir, the nuns in their frenzy would have taken the life of the
 chief personage in this spectacle; so there was no choice but to take
 him away from the church and the furies who threatened his life. He was
 therefore brought back to prison about six o’clock in the evening, and
 the rest of the day the exorcists were employed in calming the poor
-sisters—a task of no small difficulty."
+sisters—a task of no small difficulty.”
 
 Everyone did not regard the possessed sisters with the indulgent eye of
 the author of the above narrative, and many saw in this terrible
@@ -2993,7 +2990,7 @@ orgy, at which revenge ran riot. There was such difference of opinion
 about it that it was considered necessary to publish the following
 proclamation by means of placards on July 2nd:
 
-"All persons, of whatever rank or profession, are hereby expressly
+“All persons, of whatever rank or profession, are hereby expressly
 forbidden to traduce, or in any way malign, the nuns and other persons
 at Loudun possessed by evil spirits; or their exorcists; or those who
 accompany them either to the places appointed for exorcism or elsewhere;
@@ -3004,7 +3001,7 @@ proclamation will be read and published to-day from the pulpits of all
 the churches, and copies affixed to the church doors and in other
 suitable public places.
 
-"Done at Loudun, July 2nd, 1634."
+“Done at Loudun, July 2nd, 1634.”
 
 This order had great influence with worldly folk, and from that moment,
 whether their belief was strengthened or not, they no longer dared to
@@ -3093,32 +3090,32 @@ memorandum, headed Reasons for Acquittal, and had copies laid before his
 judges. It was a weighty and, impartial summing up of the whole case,
 such as a stranger might have written, and began, with these words.
 
-"I entreat you in all humility to consider deliberately and with
+“I entreat you in all humility to consider deliberately and with
 attention what the Psalmist says in Psalm 82, where he exhorts judges to
 fulfil their charge with absolute rectitude; they being themselves mere
 mortals who will one day have to appear before God, the sovereign judge
 of the universe, to give an account of their administration. The Lord’s
 Anointed speaks to you to-day who are sitting in judgment, and says—
 
-"’God standeth in the congregation of the mighty: He judgeth among the
+“‘God standeth in the congregation of the mighty: He judgeth among the
 gods.
 
-"’How long will ye judge unjustly, and accept the persons of the wicked?
+“‘How long will ye judge unjustly, and accept the persons of the wicked?
 
-"’Defend the poor and fatherless: do justice to the afflicted and needy.
+“‘Defend the poor and fatherless: do justice to the afflicted and needy.
 
-"’Deliver the poor and needy: rid them out of the hand of the wicked.
+“‘Deliver the poor and needy: rid them out of the hand of the wicked.
 
-"’I have said, Ye are gods; and all of you are children of the Most
+“‘I have said, Ye are gods; and all of you are children of the Most
 High.
 
-"’But ye shall die like men, and fall like one of the princes.’"
+“‘But ye shall die like men, and fall like one of the princes.’”
 
 But this appeal, although convincing and dignified, had no influence
 upon the commission; and on the 18th of August the following verdict and
 sentence was pronounced:—
 
-"We have declared, and do hereby declare, Urbain Grandier duly accused
+“We have declared, and do hereby declare, Urbain Grandier duly accused
 and convicted of the crimes of magic and witchcraft, and of causing the
 persons of certain Ursuline nuns of this town and of other females to
 become possessed of evil spirits, wherefrom other crimes and offences
@@ -3144,8 +3141,8 @@ before this sentence is carried out, we order the said Grandier to be
 put to the question ordinary and extraordinary, so that his accomplices
 may become known.
 
-"Pronounced at Loudun against the said Grandier this 18th day of August
-1634."
+“Pronounced at Loudun against the said Grandier this 18th day of August
+1634.”
 
 On the morning of the day on which this sentence was passed, M. de
 Laubardemont ordered the surgeon Francois Fourneau to be arrested at his
@@ -3153,14 +3150,14 @@ own house and taken to Grandier’s cell, although he was ready to go
 there of his own free will. In passing through the adjoining room he
 heard the voice of the accused saying:—
 
-"What do you want with me, wretched executioner? Have you come to kill
+“What do you want with me, wretched executioner? Have you come to kill
 me? You know how cruelly you have already tortured my body. Well I am
-ready to die."
+ready to die.”
 
 On entering the room, Fourneau saw that these words had been addressed
 to the surgeon Mannouri.
 
-One of the officers of the ’grand privot de l’hotel’, to whom M. de
+One of the officers of the ‘grand privot de l’hotel’, to whom M. de
 Laubardemont lent for the occasion the title of officer of the king’s
 guard, ordered the new arrival to shave Grandier, and not leave a single
 hair on his whole body. This was a formality employed in cases of
@@ -3182,9 +3179,9 @@ who had for so long met with nothing but barbarous treatment from those
 with whom he came in contact, turned towards the surgeon with tears in
 his eyes, saying—
 
-"So you are the only one who has any pity for me."
+“So you are the only one who has any pity for me.”
 
-"Ah, sir," replied Fourneau, "you don’t see everybody."
+“Ah, sir,” replied Fourneau, “you don’t see everybody.”
 
 Grandier was then shaved, but only two marks found on him, one as we
 have said on the shoulder blade, and the other on the thigh. Both marks
@@ -3204,8 +3201,8 @@ approaches were lined with soldiers.
 
 Before the accused was brought in, Pere Lactance and another Franciscan
 who had come with him exorcised him to oblige the devils to leave him;
-then entering the judgment hall, they exorcised the earth, the air, "and
-the other elements." Not till that was done was Grandier led in.
+then entering the judgment hall, they exorcised the earth, the air, “and
+the other elements.” Not till that was done was Grandier led in.
 
 At first he was kept at the far end of the hall, to allow time for the
 exorcisms to have their full effect, then he was brought forward to the
@@ -3216,7 +3213,7 @@ other, and flung them at de Laubardemont’s feet. Seeing that the accused
 fixed his eyes on the commissioner as if waiting to see what he was
 about to do, the clerk said:
 
-"Turn your head, unhappy man, and adore the crucifix above the bench."
+“Turn your head, unhappy man, and adore the crucifix above the bench.”
 
 Grandier obeyed without a murmur and with great humility, and remained
 sunk in silent prayer for about ten minutes; he then resumed his former
@@ -3229,7 +3226,7 @@ condemning the accused to be burnt alive the same day, after the
 infliction of ordinary and extraordinary torture. When the clerk had
 ended, Grandier said, with a voice unmoved from its usual calm—
 
-"Messeigneurs, I aver in the name of the Father, the Son, and the Holy
+“Messeigneurs, I aver in the name of the Father, the Son, and the Holy
 Ghost, and the Blessed Virgin, my only hope, that I have never been a
 magician, that I have never committed sacrilege, that I know no other
 magic than that of the Holy Scriptures, which I have always preached,
@@ -3237,7 +3234,7 @@ and that I have never held any other belief than that of our Holy Mother
 the Catholic Apostolic Church of Rome; I renounce the devil and all his
 works; I confess my Redeemer, and I pray to be saved through the blood
 of the Cross; and I beseech you, messeigneurs, to mitigate the rigour of
-my sentence, and not to drive my soul to despair."
+my sentence, and not to drive my soul to despair.”
 
 The concluding words led de Laubardemont to believe that he could obtain
 some admission from Grandier through fear of suffering, so he ordered
@@ -3287,9 +3284,9 @@ instruments, drove in the first wedge, but could not draw a murmur from
 Grandier, who was reciting a prayer in a low voice; a second was driven
 home, and this time the victim, despite his resolution, could not avoid
 interrupting his devotions by two groans, at each of which Pere Lactance
-struck harder, crying, "Dicas! dicas!" (Confess, confess!), a word which
+struck harder, crying, “Dicas! dicas!” (Confess, confess!), a word which
 he repeated so often and so furiously, till all was over, that he was
-ever after popularly called "Pere Dicas."
+ever after popularly called “Pere Dicas.”
 
 When the second wedge was in, de Laubardemont showed Grandier his
 manuscript against the celibacy of the priests, and asked if he
@@ -3298,8 +3295,8 @@ affirmative. Asked what motive he had in writing it, he said it was an
 attempt to restore peace of mind to a poor girl whom he had loved, as
 was proved by the two lines written at the end:
 
-    "Si ton gentil esprit prend bien cette science,
-     Tu mettras en repos ta bonne conscience."
+    “Si ton gentil esprit prend bien cette science,
+     Tu mettras en repos ta bonne conscience.”
 
      [If thy sensitive mind imbibe this teaching,
      It will give ease to thy tender conscience]
@@ -3308,14 +3305,14 @@ Upon this, M. de Laubardemont demanded the girl’s name; but Grandier
 assured him it should never pass his lips, none knowing it but himself
 and God. Thereupon M. de Laubardemont ordered Pere Lactance to insert
 the third wedge. While it was being driven in by the monk’s lusty arm,
-each blow being accompanied by the word "’Dicas’!" Grandier exclaimed—
+each blow being accompanied by the word “‘Dicas’!” Grandier exclaimed—
 
-"My God! they are killing me, and yet I am neither a sorcerer nor
-sacrilegious!"
+“My God! they are killing me, and yet I am neither a sorcerer nor
+sacrilegious!”
 
 At the fourth wedge Grandier fainted, muttering—
 
-"Oh, Pere Lactance, is this charity?"
+“Oh, Pere Lactance, is this charity?”
 
 Although his victim was unconscious, Pere Lactance continued to strike;
 so that, having lost consciousness through pain, pain soon brought him
@@ -3324,31 +3321,31 @@ back to life.
 De Laubardemont took advantage of this revival to take his turn at
 demanding a confession of his crimes; but Grandier said—
 
-"I have committed no crimes, sir, only errors. Being a man, I have often
+“I have committed no crimes, sir, only errors. Being a man, I have often
 gone astray; but I have confessed and done penance, and believe that my
 prayers for pardon have been heard; but if not, I trust that God will
-grant me pardon now, for the sake of my sufferings."
+grant me pardon now, for the sake of my sufferings.”
 
 At the fifth wedge Grandier fainted once more, but they restored him to
 consciousness by dashing cold water in his face, whereupon he moaned,
 turning to M. de Laubardemont—
 
-"In pity, sir, put me to death at once! I am only a man, and I cannot
+“In pity, sir, put me to death at once! I am only a man, and I cannot
 answer for myself that if you continue to torture me so I shall not give
-way to despair."
+way to despair.”
 
-"Then sign this, and the torture shall cease," answered the commissioner
+“Then sign this, and the torture shall cease,” answered the commissioner
 royal, offering him a paper.
 
-"My father," said Urbain, turning towards the Franciscan, "can you
+“My father,” said Urbain, turning towards the Franciscan, “can you
 assure me on your conscience that it is permissible for a man, in order
-to escape suffering, to confess a crime he has never committed?"
+to escape suffering, to confess a crime he has never committed?”
 
-"No," replied the monk; "for if he die with a lie on his lips he dies in
-mortal sin."
+“No,” replied the monk; “for if he die with a lie on his lips he dies in
+mortal sin.”
 
-"Go on, then," said Grandier; "for having suffered so much in my body, I
-desire to save my soul."
+“Go on, then,” said Grandier; “for having suffered so much in my body, I
+desire to save my soul.”
 
 As Pere Lactance drove in the sixth wedge Grandier fainted anew.
 
@@ -3363,7 +3360,7 @@ At the seventh wedge Grandier’s legs burst open, and the blood spurted
 into Pere Lactance’s face; but he wiped it away with the sleeve of his
 gown.
 
-"O Lord my God, have mercy on me! I die!" cried Grandier, and fainted
+“O Lord my God, have mercy on me! I die!” cried Grandier, and fainted
 for the fourth time. Pere Lactance seized the opportunity to take a
 short rest, and sat down.
 
@@ -3395,12 +3392,12 @@ asked leave to confess to him, which de Laubardemont refused, holding
 out the paper he desired to have signed once more, at which Grandier
 said—
 
-"If I would not sign to spare myself before, am I likely to give way now
-that only death remains?"
+“If I would not sign to spare myself before, am I likely to give way now
+that only death remains?”
 
-"True," replied Laubardemont; "but the mode of your death is in our
+“True,” replied Laubardemont; “but the mode of your death is in our
 hands: it rests with us to make it slow or quick, painless or agonising;
-so take this paper and sign?"
+so take this paper and sign?”
 
 Grandier pushed the paper gently away, shaking his head in sign of
 refusal, whereupon de Laubardemont left the room in a fury, and ordered
@@ -3417,12 +3414,12 @@ placed lying on a bier and carried out in that position. On the way he
 met the criminal lieutenant of Orleans, who once more exhorted him to
 confess his crimes openly; but Grandier replied—
 
-"Alas, sir, I have avowed them all; I have kept nothing back."
+“Alas, sir, I have avowed them all; I have kept nothing back.”
 
-"Do you desire me to have masses said for you?" continued the
+“Do you desire me to have masses said for you?” continued the
 lieutenant.
 
-"I not only desire it, but I beg for it as a great favour," said Urbain.
+“I not only desire it, but I beg for it as a great favour,” said Urbain.
 
 A lighted torch was then placed in his hand: as the procession started
 he pressed the torch to his lips; he looked on all whom he met with
@@ -3437,27 +3434,27 @@ to the top of the steps and laid down, while his sentence was read to
 him once more, and just as it was finished, his confessor, who had not
 been allowed to see him for four days, forced a way through the crowd
 and threw himself into Grandier’s arms. At first tears choked Pere
-Grillau’s voice, but at last he said, "Remember, sir, that our Saviour
+Grillau’s voice, but at last he said, “Remember, sir, that our Saviour
 Jesus Christ ascended to His Father through the agony of the Cross: you
 are a wise man, do not give way now and lose everything. I bring you
 your mother’s blessing; she and I never cease to pray that God may have
-mercy on you and receive you into Paradise."
+mercy on you and receive you into Paradise.”
 
 These words seemed to inspire Grandier with new strength; he lifted his
 head, which pain had bowed, and raising his eyes to heaven, murmured a
 short prayer. Then turning towards the worthy, friar, he said—
 
-"Be a son to my mother; pray to God for me constantly; ask all our good
+“Be a son to my mother; pray to God for me constantly; ask all our good
 friars to pray for my soul; my one consolation is that I die innocent. I
-trust that God in His mercy may receive me into Paradise."
+trust that God in His mercy may receive me into Paradise.”
 
-"Is there nothing else I can do for you?" asked Pere Grillau.
+“Is there nothing else I can do for you?” asked Pere Grillau.
 
-"Alas, my father!" replied Grandier, "I am condemned to die a most cruel
+“Alas, my father!” replied Grandier, “I am condemned to die a most cruel
 death; ask the executioner if there is no way of shortening what I must
-undergo."
+undergo.”
 
-"I go at once," said the friar; and giving him absolution in ’articulo
+“I go at once,” said the friar; and giving him absolution in ‘articulo
 mortis’, he went down the steps, and while Grandier was making his
 confession aloud the good monk drew the executioner aside and asked if
 there were no possibility of alleviating the death-agony by means of a
@@ -3472,7 +3469,7 @@ and as he embraced him for the last time, whispered to him what he had
 arranged with the executioner, whereupon Grandier turned towards the
 latter and said in a tone of deep gratitude—
 
-"Thanks, my brother."
+“Thanks, my brother.”
 
 At that moment, the archers having driven away Pere Grillau, by order of
 M. de Laubardemont, by beating him with their halberts, the procession
@@ -3481,14 +3478,14 @@ church, and from there to proceed to the square of Sainte-Croix. On the
 way Urbain met and recognised Moussant, who was accompanied by his wife,
 and turning towards him, said—
 
-"I die your debtor, and if I have ever said a word that could offend you
-I ask you to forgive me."
+“I die your debtor, and if I have ever said a word that could offend you
+I ask you to forgive me.”
 
 When the place of execution was reached, the provost’s lieutenant
 approached Grandier and asked his forgiveness.
 
-"You have not offended me," was the reply; "you have only done what your
-duty obliged you to do."
+“You have not offended me,” was the reply; “you have only done what your
+duty obliged you to do.”
 
 The executioner then came forward and removed the back board of the
 cart, and ordered his assistants to carry Grandier to where the pile was
@@ -3520,7 +3517,7 @@ about to die to be that day with Christ in Paradise.
 The clerk then read his sentence to him for the fourth time, and asked
 if he persisted in what he said under torture.
 
-"Most certainly I do," said Urbain; "for it was the exact truth."
+“Most certainly I do,” said Urbain; “for it was the exact truth.”
 
 Upon this, the clerk withdrew, first informing Grandier that if he had
 anything to say to the people he was at liberty to speak.
@@ -3533,7 +3530,7 @@ holy water in his face that it took away his breath. It was but for a
 moment, however, and he recovered himself, and again endeavoured to
 speak, a monk stooped down and stifled the words by kissing him on the
 lips. Grandier, guessing his intention, said loud enough for those next
-the pile to hear, "That was the kiss of Judas!"
+the pile to hear, “That was the kiss of Judas!”
 
 At these words the monks become so enraged that one of them struck
 Grandier three times in the face with a crucifix, while he appeared to
@@ -3545,20 +3542,20 @@ hands and eyes raised to heaven commended himself to God and the Virgin.
 The exorcists then made one more effort to get him to confess publicly,
 but he exclaimed—
 
-"My fathers, I have said all I had to say; I hope in God and in His
-mercy."
+“My fathers, I have said all I had to say; I hope in God and in His
+mercy.”
 
 At this refusal the anger of the exorcists surpassed all bounds, and
 Pere Lactance, taking a twist of straw, dipped it in a bucket of pitch
 which was standing beside the pile, and lighting it at a torch, thrust
 it into his face, crying—
 
-"Miserable wretch! will nothing force you to confess your crimes and
-renounce the devil?"
+“Miserable wretch! will nothing force you to confess your crimes and
+renounce the devil?”
 
-"I do not belong to the devil," said Grandier, pushing away the straw
-with his hands; "I have renounced the devil, I now renounce him and all
-his works again, and I pray that God may have mercy on me."
+“I do not belong to the devil,” said Grandier, pushing away the straw
+with his hands; “I have renounced the devil, I now renounce him and all
+his works again, and I pray that God may have mercy on me.”
 
 At this, without waiting for the signal from the provost’s lieutenant,
 Pere Lactance poured the bucket of pitch on one corner of the pile of
@@ -3566,28 +3563,28 @@ wood and set fire to it, upon which Grandier called the executioner to
 his aid, who, hastening up, tried in vain to strangle him, while the
 flames spread apace.
 
-"Ah! my brother," said the sufferer, "is this the way you keep your
-promise?"
+“Ah! my brother,” said the sufferer, “is this the way you keep your
+promise?”
 
-"It’s not my fault," answered the executioner; "the monks have knotted
-the cord, so that the noose cannot slip."
+“It’s not my fault,” answered the executioner; “the monks have knotted
+the cord, so that the noose cannot slip.”
 
-"Oh, Father Lactance! Father Lactance! have you no charity?" cried
+“Oh, Father Lactance! Father Lactance! have you no charity?” cried
 Grandier.
 
 The executioner by this time was forced by the increasing heat to jump
 down from the pile, being indeed almost overcome; and seeing this,
 Grandier stretched forth a hand into the flames, and said—
 
-"Pere Lactance, God in heaven will judge between thee and me; I summon
-thee to appear before Him in thirty days."
+“Pere Lactance, God in heaven will judge between thee and me; I summon
+thee to appear before Him in thirty days.”
 
 Grandier was then seen to make attempts to strangle himself, but either
 because it was impossible, or because he felt it would be wrong to end
 his life by his own hands, he desisted, and clasping his hands, prayed
 aloud—
 
-"Deus meus, ad te vigilo, miserere me."
+“Deus meus, ad te vigilo, miserere me.”
 
 A Capuchin fearing that he would have time to say more, approached the
 pile from the side which had not yet caught fire, and dashed the
@@ -3623,7 +3620,7 @@ Devils of Loudzin gives an account of one of these circumstances, for
 the authenticity of which he vouches, and from which we extract the
 following:
 
-"Some days after the execution of Grandier, Pere Lactance fell ill of
+“Some days after the execution of Grandier, Pere Lactance fell ill of
 the disease of which he died. Feeling that it was of supernatural
 origin, he determined to take a pilgrimage to Notre Dame des Andilliers
 de Saumur, where many miracles were wrought, and which was held in high
@@ -3643,10 +3640,10 @@ among them. Pere Lactance himself appeared melancholy and preoccupied,
 and that evening at supper refused to eat, repeating over and over
 again—
 
-"’It was wrong of me to deny Grandier the confessor he asked for; God is
+“‘It was wrong of me to deny Grandier the confessor he asked for; God is
 punishing me, God is punishing me!’
 
-"On the following morning the journey was resumed, but the evident
+“On the following morning the journey was resumed, but the evident
 distress of mind under which Pere Lactance laboured had so damped the
 spirits of the party that all their gaiety had disappeared. Suddenly,
 just outside Fenet, where the road was in excellent condition and no
@@ -3657,12 +3654,12 @@ suspicions pointing to Pere Lactance, they went on their way, leaving
 him behind, and feeling very uncomfortable at the thought that they had
 spent two or three days in his society.
 
-"Pere Lactance at last reached Notre-Dame des Andilliers; but however
+“Pere Lactance at last reached Notre-Dame des Andilliers; but however
 numerous were the miracles there performed, the remission of the doom
 pronounced by the martyr on Pere Lactance was not added to their number;
 and at a quarter-past six on September 18th, exactly a month to the very
 minute after Grandier’s death, Pere Lactance expired in excruciating
-agony."
+agony.”
 
 Pere Tranquille’s turn came four years later. The malady which attacked
 him was so extraordinary that the physicians were quite at a loss, and
@@ -3674,22 +3671,22 @@ prayer on his lips, spread abroad the report that the devils whom he had
 expelled from the bodies of the nuns had entered into the body of the
 exorcist. He died shrieking—
 
-"My God! how I suffer! Not all the devils and all the damned together
-endure what I endure!" His panegyrist, in whose book we find all the
+“My God! how I suffer! Not all the devils and all the damned together
+endure what I endure!” His panegyrist, in whose book we find all the
 horrible details of his death employed to much purpose to illustrate the
 advantages of belonging to the true faith, remarks—
 
-"Truly big generous heart must have been a hot hell for those fiends who
-entered his body to torment it."
+“Truly big generous heart must have been a hot hell for those fiends who
+entered his body to torment it.”
 
 The following epitaph which was placed over his grave was interpreted,
 according to the prepossessions of those who read it, either as a
 testimony to his sanctity or as a proof of his punishment:—
 
-"Here lies Pere Tranquille, of Saint-Remi; a humble Capuchin preacher.
+“Here lies Pere Tranquille, of Saint-Remi; a humble Capuchin preacher.
 The demons no longer able to endure his fearlessly exercised power as an
 exorcist, and encouraged by sorcerers, tortured him to death, on May
-31st, 1638."
+31st, 1638.”
 
 But a death about which there could be no doubt as to the cause was that
 of the surgeon Mannouri, the same who had, as the reader may recollect,
@@ -3702,18 +3699,18 @@ gardens of the Franciscan monastery, Mannouri suddenly stopped, and,
 staring fixedly at some object which was invisible to his companions,
 exclaimed with a start—
 
-"Oh! there is Grandier!
+“Oh! there is Grandier!
 
-"Where? where?" cried the others.
+“Where? where?” cried the others.
 
 He pointed in the direction towards which his eyes were turned, and
 beginning to tremble violently, asked—
 
-"What do you want with me, Grandier? What do you want?"
+“What do you want with me, Grandier? What do you want?”
 
 A moment later he added
 
-"Yes-yes, I am coming."
+“Yes-yes, I am coming.”
 
 Immediately it seemed as if the vision vanished from before his eyes,
 but the effect remained. His brother-surgeon and the servant brought him
@@ -3721,14 +3718,14 @@ home, but neither candles nor the light of day could allay his fears;
 his disordered brain showed him Grandier ever standing at the foot of
 his bed. A whole week he continued, as was known all over the town, in
 this condition of abject terror; then the spectre seemed to move from
-its place and gradually to draw nearer, for he kept on repeating, "He is
-coming! he is coming!" and at length, towards evening, at about the same
+its place and gradually to draw nearer, for he kept on repeating, “He is
+coming! he is coming!” and at length, towards evening, at about the same
 hour at which Grandier expired, Surgeon Mannouri drew his last breath.
 
 We have still to tell of M. de Laubardemont. All we know is thus related
 in the letters of M. de Patin:—
 
-"On the 9th inst., at nine o’clock in the evening, a carriage was
+“On the 9th inst., at nine o’clock in the evening, a carriage was
 attacked by robbers; on hearing the noise the townspeople ran to the
 spot, drawn thither as much by curiosity as by humanity. A few shots
 were exchanged and the robbers put to flight, with the exception of one
@@ -3743,13 +3740,13 @@ devils. These nuns he had so tutored as to their behaviour that many
 people foolishly believed them to be demoniacs. May we not regard the
 fate of his son as a chastisement inflicted by Heaven on this unjust
 judge—an expiation exacted for the pitilessly cruel death inflicted on
-his victim, whose blood still cries unto the Lord from the ground?"
+his victim, whose blood still cries unto the Lord from the ground?”
 
 Naturally the persecution of Urbain Grandier attracted the attention not
 only of journalists but of poets. Among the many poems which were
 inspired by it, the following is one of the best. Urbain speaks:
 
-    "From hell came the tidings that by horrible sanctions
+    “From hell came the tidings that by horrible sanctions
      I had made a pact with the devil to have power over women:
      Though not one could be found to accuse me.
      In the trial which delivered me to torture and the stake,
@@ -3782,9 +3779,9 @@ inspired by it, the following is one of the best. Urbain speaks:
      That my resignation showed that I died in hope and faith;
      That to forgive, to suffer without complaint or murmur,
      Is perfect love; and that the soul is purified
-     From the sins of life by a death like mine."
+     From the sins of life by a death like mine.”
 
-                                  ————
+                                  ――――
 
 *** END OF THIS PROJECT GUTENBERG EBOOK URBAIN GRANDIER ***
 
@@ -3798,21 +3795,22 @@ We will update this book if we find any errors.
 
 This book can be found under: http://www.gutenberg.org/ebooks/2746
 
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties.  Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg™ electronic works to protect the Project
-Gutenberg™ concept and trademark. Project Gutenberg is a registered
-trademark, and may not be used if you charge for the eBooks, unless you
-receive specific permission. If you do not charge anything for copies of
-this eBook, complying with the rules is very easy. You may use this
-eBook for nearly any purpose such as creation of derivative works,
-reports, performances and research. They may be modified and printed and
-given away – you may do practically _anything_ with public domain
-eBooks.  Redistribution is subject to the trademark license, especially
-commercial redistribution.
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works, so
+the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright royalties.
+Special rules, set forth in the General Terms of Use part of this
+license, apply to copying and distributing Project Gutenberg™ electronic
+works to protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.  They
+may be modified and printed and given away – you may do practically
+_anything_ in the United States with eBooks not protected by U.S.
+copyright law. Redistribution is subject to the trademark license,
+especially commercial redistribution.
 
 
 
@@ -3858,9 +3856,9 @@ paragraph 1.E below.
 Foundation” or PGLAF), owns a compilation copyright in the collection of
 Project Gutenberg™ electronic works. Nearly all the individual works in
 the collection are in the public domain in the United States. If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you
-from copying, distributing, performing, displaying or creating
+individual work is unprotected by copyright law in the United States and
+you are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
 derivative works based on the work as long as all references to Project
 Gutenberg are removed. Of course, we hope that you will support the
 Project Gutenberg™ mission of promoting free access to electronic works
@@ -3869,6 +3867,7 @@ of this agreement for keeping the Project Gutenberg™ name associated
 with the work. You can easily comply with the terms of this agreement by
 keeping this work in the same format with its attached full Project
 Gutenberg™ License when you share it without charge with others.
+
 
 *1.D.* The copyright laws of the place where you are located also govern
 what you can do with this work. Copyright laws in most countries are in
@@ -3888,20 +3887,25 @@ which the phrase “Project Gutenberg” appears, or with which the phrase
 “Project Gutenberg” is associated) is accessed, displayed, performed,
 viewed, copied or distributed:
 
-    This eBook is for the use of anyone anywhere at no cost and with
+    This eBook is for the use of anyone anywhere in the United
+    States and most other parts of the world at no cost and with
     almost no restrictions whatsoever. You may copy it, give it away
     or re-use it under the terms of the Project Gutenberg License
-    included with this eBook or online at http://www.gutenberg.org
+    included with this eBook or online at http://www.gutenberg.org .
+    If you are not located in the United States, you’ll have to
+    check the laws of the country where you are located before using
+    this ebook.
 
 *1.E.2.* If an individual Project Gutenberg™ electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges. If you are redistributing or providing access to a work with
-the phrase “Project Gutenberg” associated with or appearing on the work,
-you must comply either with the requirements of paragraphs 1.E.1 through
-1.E.7 or obtain permission for the use of the work and the Project
-Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+from texts not protected by U.S. copyright law (does not contain a
+notice indicating that it is posted with permission of the copyright
+holder), the work can be copied and distributed to anyone in the United
+States without paying any fees or charges. If you are redistributing or
+providing access to a work with the phrase “Project Gutenberg”
+associated with or appearing on the work, you must comply either with
+the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission
+for the use of the work and the Project Gutenberg™ trademark as set
+forth in paragraphs 1.E.8 or 1.E.9.
 
 *1.E.3.* If an individual Project Gutenberg™ electronic work is posted
 with the permission of the copyright holder, your use and distribution
@@ -3972,21 +3976,22 @@ that
 *1.E.9.* If you wish to charge a fee or distribute a Project Gutenberg™
 electronic work or group of works on different terms than are set forth
 in this agreement, you must obtain permission in writing from both the
-Project Gutenberg Literary Archive Foundation and Michael Hart, the
-owner of the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3. below.
+Project Gutenberg Literary Archive Foundation and The Project Gutenberg
+Trademark LLC, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
 
 *1.F.*
 
 *1.F.1.* Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg™ collection.
-Despite these efforts, Project Gutenberg™ electronic works, and the
-medium on which they may be stored, may contain “Defects,” such as, but
-not limited to, incomplete, inaccurate or corrupt data, transcription
-errors, a copyright or other intellectual property infringement, a
-defective or damaged disk or other medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by your
+equipment.
 
 *1.F.2.* LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the “Right
 of Replacement or Refund” described in paragraph 1.F.3, the Project
@@ -4017,7 +4022,7 @@ opportunities to fix the problem.
 *1.F.4.* Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
 *1.F.5.* Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
@@ -4072,13 +4077,13 @@ http://www.gutenberg.org/fundraising/pglaf . Contributions to the
 Project Gutenberg Literary Archive Foundation are tax deductible to the
 full extent permitted by U.S.  federal laws and your state’s laws.
 
-The Foundation’s principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org. Email contact links and up to date contact
-information can be found at the Foundation’s web site and official page
-at http://www.pglaf.org
+The Foundation’s principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers
+and employees are scattered throughout numerous locations. Its business
+office is located at 809 North 1500 West, Salt Lake City, UT 84116,
+(801) 596-1887, email business@pglaf.org. Email contact links and up to
+date contact information can be found at the Foundation’s web site and
+official page at http://www.pglaf.org
 
 For additional contact information:
 
@@ -4133,9 +4138,9 @@ with anyone. For thirty years, he produced and distributed Project
 Gutenberg™ eBooks with only a loose network of volunteer support.
 
 Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S. unless
-a copyright notice is included. Thus, we do not necessarily keep eBooks
-in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper edition.
 
 Each eBook is in a subdirectory of the same number as the eBook’s eBook
 number, often in several formats including plain vanilla ASCII,
